@@ -5,6 +5,7 @@
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.16",
     "fs-extra": "^11.2.0",
+    "headroom-ai": "^0.44.0",
     "pino": "^9.0.0",
     "qrcode-terminal": "^0.12.0"
   }
